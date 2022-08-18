@@ -296,9 +296,7 @@ if `forced` is false, you can select `System->upgrade` to upgrade manually.
 
 ### 3.1 Web Server (or MQTT Client)
 
-I built a test web page [here](https://www.eflystudio.cn/page/esp8266/remote.html) using the **default MQTT topic**.
-
-![Web capture_www.eflystudio.cn](./img/Web capture_www.eflystudio.cn.jpeg)
+![Web_capture](./img/Web_capture.jpeg)
 
 You can get the source code of this web from [here](https://github.com/MoFChen/desktopClock-web).
 
