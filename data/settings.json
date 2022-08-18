@@ -1,0 +1,26 @@
+{
+    "datetime": {
+        "is24": true
+    },
+    "led": {
+        "sensorOn": true,
+        "delayOffTime": "3",
+        "buttonOnTime": "5",
+        "remoteOnTime": "10"
+    },
+    "screen": {
+        "sensorOn": false,
+        "lockInterval": 0,
+        "scrollInterval": 0
+    },
+    "sync": {
+        "dataSyncInterval": 0,
+        "clockSyncInterval": 15,
+        "weatherSyncInterval": 15
+    },
+    "weather": {
+        "unit": true,
+        "city": "Changchun",
+        "cityID": "101060101"
+    }
+}

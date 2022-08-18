@@ -1,0 +1,13 @@
+{
+    "datetime": "2022-08-15T10:00:00",
+    "autoUpgrade": false,
+    "upgradeVersion": 0,
+    "upgradeUrl": "",
+    "wifiSSID": "",
+    "wifiPASS": "",
+    "mqttHost": "",
+    "mqttPort": ,
+    "apiTimeUrl": "",
+    "apiWeatherUrl": "",
+    "apiWeatherKey": ""
+}
