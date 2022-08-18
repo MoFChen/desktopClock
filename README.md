@@ -41,7 +41,7 @@ I don't know how to write this.
 
 ## 2 Instruction
 
-![framework](.\img\framework.svg)
+![framework](./img/framework.svg)
 
 This is the framework of this whole project.
 
@@ -51,13 +51,13 @@ This is the framework of this whole project.
 
 ### 2.1 Button Control
 
-![button](.\img\button.svg)
+![button](./img/button.svg)
 
 ### 2.2 MQTT Topic
 
 You can change them to your own topic in file 'desktopClock.h'.
 
-![10](.\img\10.png)
+![10](./img/10.png)
 
 There are **default MQTT topic** in the red box.
 
@@ -266,9 +266,9 @@ Example:
 
 #### 2.3.1 Change the `SKETCH_VERSION` bigger and Get the .bin file
 
-![image-20220818221437928](.\img\image-20220818221437928.png)
+![image-20220818221437928](./img/image-20220818221437928.png)
 
-![image-20220818221622040](.\img\image-20220818221622040.png)
+![image-20220818221622040](./img/image-20220818221622040.png)
 
 #### 2.3.2 Upload to Web Server and Get the URL
 
@@ -298,7 +298,7 @@ if `forced` is false, you can select `System->upgrade` to upgrade manually.
 
 I built a test web page [here](https://www.eflystudio.cn/page/esp8266/remote.html) using the **default MQTT topic**.
 
-![Web capture_www.eflystudio.cn](C:\Users\MoFChen\Desktop\Workshop Material\submisson\documents\img\Web capture_www.eflystudio.cn.jpeg)
+![Web capture_www.eflystudio.cn](./img/Web capture_www.eflystudio.cn.jpeg)
 
 You can get the source code of this web from [here](https://github.com/MoFChen/desktopClock-web).
 
@@ -314,47 +314,47 @@ default MQTT Broker Port: 1883
 
 #### 3.3.1 NodeMCU ESP8266 Development Board
 
-![image-20220818201140438](.\img\image-20220818201140438.png)
+![image-20220818201140438](./img/image-20220818201140438.png)
 
-![image-20220818201317196](.\img\image-20220818201317196.png)
+![image-20220818201317196](./img/image-20220818201317196.png)
 
 #### 3.3.2 SSD1306 I²C OLED Display Module
 
-![image-20220818201354518](.\img\image-20220818201354518.png)
+![image-20220818201354518](./img/image-20220818201354518.png)
 
-![image-20220818201508379](.\img\image-20220818201508379.png)
+![image-20220818201508379](./img/image-20220818201508379.png)
 
 #### 3.3.3 SR602 Motion Sensor Detector Module
 
-![image-20220818201600019](.\img\image-20220818201600019.png)
+![image-20220818201600019](./img/image-20220818201600019.png)
 
 #### 3.3.4 DHT11/22 Temperature and Humidity Sensor Module
 
 ##### DHT11
 
-![image-20220818201723763](.\img\image-20220818201723763.png)
+![image-20220818201723763](./img/image-20220818201723763.png)
 
 ##### DHT22
 
-![image-20220818201802256](.\img\image-20220818201802256.png)
+![image-20220818201802256](./img/image-20220818201802256.png)
 
 #### 3.3.5 LED Module
 
-![image-20220818201842837](.\img\image-20220818201842837.png)
+![image-20220818201842837](./img/image-20220818201842837.png)
 
 Any color should be ok.
 
 #### 3.3.6 Button
 
-![image-20220818202108113](.\img\image-20220818202108113.png)
+![image-20220818202108113](./img/image-20220818202108113.png)
 
 2 * buttons
 
 ##### 3.3.7 Connection
 
-![circuit](.\img\circuit.svg)
+![circuit](./img/circuit.svg)
 
-![2](.\img\2.png)
+![2](./img/2.png)
 
 ### 3.4 Software
 
@@ -369,8 +369,3 @@ Any color should be ok.
 4. [`ESPAsyncTCP v1.2.2+`](https://github.com/me-no-dev/ESPAsyncTCP)
 5. [`AsyncHTTPRequest_Generic`](https://github.com/khoih-prog/AsyncHTTPRequest_Generic)
 6. [`AsyncMQTT_Generic`](https://github.com/khoih-prog/AsyncMQTT_Generic)
-
-
-
-
-
